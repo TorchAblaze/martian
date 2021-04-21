@@ -1,0 +1,19 @@
+body {
+  color: white;
+  background-color: rgb(35, 5, 49);
+  max-width: 1500px;
+  margin: 0 auto;
+  font-family: fantasy;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 40%;
+  height: auto;
+}
+
+img.displayPhotos {
+  margin: auto;
+  height: auto;
+  border-radius: 10px;
+}
